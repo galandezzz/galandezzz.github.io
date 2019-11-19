@@ -1,223 +1,226 @@
-[
-  {
-    "id": "10000048690",
-    "feedback": [],
-    "body": {
-      "id": 100000,
-      "data": {
-        "guid": "e85886f1-8eb5-4810-8293-4e5bb6661175",
-        "properties": {
-          "name": "Подписка на сервисы",
-          "icon_background": {
-            "image_url": "https://galandezzz.github.io/images/combo_preview.png"
-          }
-        },
-        "content": [
-          {
-            "guid": "99be1cc3-a83f-4956-a9ea-bef6bb421d66",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_1.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "66930858-5376-4d69-b0a6-7f3c62220b4d",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": "Месяц бесплатной подписки"
+{
+    "$id": 78,
+    "Result": [
+        {
+            "id": "10000048690",
+            "feedback": [],
+            "body": {
+                "id": 100000,
+                "data": {
+                    "guid": "e85886f1-8eb5-4810-8293-4e5bb6661175",
+                    "properties": {
+                        "name": "Подписка на сервисы",
+                        "icon_background": {
+                            "image_url": "https://galandezzz.github.io/images/combo_preview.png"
+                        }
+                    },
+                    "content": [
+                        {
+                            "guid": "99be1cc3-a83f-4956-a9ea-bef6bb421d66",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_1.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "66930858-5376-4d69-b0a6-7f3c62220b4d",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": "Месяц бесплатной подписки"
+                                    }
+                                },
+                                {
+                                    "guid": "66930858-5376-4d69-b0a6-7f3c62220b4d",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "Получите по промокоду HKF03OO4ARORS5B первые 30 дней подписки Combo от Mail.ru Group бесплатно.\nВместе с Combo получите доступ к скидкам и спецпредложениям на популярные сервисы — в одной подписке."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "4f083fe4-e98f-4c35-be76-d660e9aa3b26",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_2.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "457b5545-47b7-4317-ad44-f985f301a5c8",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": "Поездки с Ситимобил — дешевле на 10%"
+                                    }
+                                },
+                                {
+                                    "guid": "fd6fef21-3551-4cd6-b725-7a4e219a52a9",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "Таксипортируйтесь из любой точки в один миг! Любые поездки на такси с Ситимобил всегда дешевле для подписчиков Combo."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "52710ddd-77b9-42c1-ba8d-be46daafee1a",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_3.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "afd84f9e-cb16-45fb-b071-1975ebb00de7",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": "Покупки в Перекрёстке — со скидкой 10%"
+                                    }
+                                },
+                                {
+                                    "guid": "b45eeb09-f2c7-47f7-ab0d-eed8f70519b5",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "Покупайте продукты в онлайн- супермаркете Perekrestok.ru или в обычных магазинах «Перекрёсток» и экономьте 10% от суммы чека."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "e765d7e7-ec25-44cf-898b-9e4b4e84d95f",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_4.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "13040140-45d3-418c-ad86-35058be5ec3b",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": "Дополнительная скидка 10% в Delivery Club"
+                                    }
+                                },
+                                {
+                                    "guid": "7efda6ca-82ec-4041-900a-d16b89316a5e",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "Заказывайте еду из тысяч ресторанов через мобильное приложение Delivery Club — с дополнительной скидкой 10%. Даже если на заказ действует другое спецпредложение или у вас есть промокод."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "6b2b4f09-294a-4136-b6a7-08b6763d5c35",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_5.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "f54dca11-2de2-4677-9afa-f6b75141418f",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": " МегаФон ТВ и Амедиатека: фильмы, сериалы и ТВ"
+                                    }
+                                },
+                                {
+                                    "guid": "b9e4179d-8a42-4239-b38d-f4be93c4b8ac",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "В подписке Combo вам будут доступны ТВ-каналы, а так же фильмы и сериалы от Amediateka Home of HBO в сервисе МегаФон ТВ."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "6426fcfc-33ca-47be-89af-116cba42295f",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_6.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "0a2395e9-24cc-432d-9d3c-0891d519bf72",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": "Скидка и кэшбэк на поездки в YouDrive"
+                                    }
+                                },
+                                {
+                                    "guid": "955401a6-c8d6-493b-969c-c2b27fc6c7ae",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "Скидка 50% на вашу следующую поездку и кэшбэк 10% от всех последующих на бонусный счёт в каршеринге YouDrive."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "2914929c-768a-46ac-9831-b9ab8cd7ccc4",
+                            "type": "story-page",
+                            "userInfo": "bottomLeftText",
+                            "properties": {
+                                "flip_interval": 10,
+                                "background": {
+                                    "image_url": "https://galandezzz.github.io/images/combo_7.png"
+                                }
+                            },
+                            "content": [
+                                {
+                                    "guid": "de391d33-9d11-42a7-bde8-df81b255cbed",
+                                    "type": "label",
+                                    "userInfo": "textHeader",
+                                    "properties": {
+                                        "text": "При покупке Биг Мака — второй в подарок"
+                                    }
+                                },
+                                {
+                                    "guid": "5ddad90d-4c3e-4a52-9597-f3f1bfc0a376",
+                                    "type": "label",
+                                    "userInfo": "textDescription",
+                                    "properties": {
+                                        "text": "Получите второй Биг Мак в подарок в Макдоналдс вашего города. Единственное ограничение — аэропорты, в них предложение не действует."
+                                    }
+                                }
+                            ]
+                        }
+                    ]
                 }
-              },
-              {
-                "guid": "66930858-5376-4d69-b0a6-7f3c62220b4d",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "Получите по промокоду HKF03OO4ARORS5B первые 30 дней подписки Combo от Mail.ru Group бесплатно.\nВместе с Combo получите доступ к скидкам и спецпредложениям на популярные сервисы — в одной подписке"
-                }
-              }
-            ]
-          },
-          {
-            "guid": "4f083fe4-e98f-4c35-be76-d660e9aa3b26",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_2.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "457b5545-47b7-4317-ad44-f985f301a5c8",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": "Поездки с Ситимобил — дешевле на 10%"
-                }
-              },
-              {
-                "guid": "fd6fef21-3551-4cd6-b725-7a4e219a52a9",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "Таксипортируйтесь из любой точки в один миг! Любые поездки на такси с Ситимобил всегда дешевле для подписчиков Combo"
-                }
-              }
-            ]
-          },
-          {
-            "guid": "52710ddd-77b9-42c1-ba8d-be46daafee1a",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_3.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "afd84f9e-cb16-45fb-b071-1975ebb00de7",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": "Покупки в Перекрёстке — со скидкой 10%"
-                }
-              },
-              {
-                "guid": "b45eeb09-f2c7-47f7-ab0d-eed8f70519b5",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "Покупайте продукты в онлайн- супермаркете Perekrestok.ru или в обычных магазинах «Перекрёсток» и экономьте 10% от суммы чека"
-                }
-              }
-            ]
-          },
-          {
-            "guid": "e765d7e7-ec25-44cf-898b-9e4b4e84d95f",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_4.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "13040140-45d3-418c-ad86-35058be5ec3b",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": "Дополнительная скидка 10% в Delivery Club"
-                }
-              },
-              {
-                "guid": "7efda6ca-82ec-4041-900a-d16b89316a5e",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "Заказывайте еду из тысяч ресторанов через мобильное приложение Delivery Club — с дополнительной скидкой 10%. Даже если на заказ действует другое спецпредложение или у вас есть промокод"
-                }
-              }
-            ]
-          },
-          {
-            "guid": "6b2b4f09-294a-4136-b6a7-08b6763d5c35",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_5.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "f54dca11-2de2-4677-9afa-f6b75141418f",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": " МегаФон ТВ и Амедиатека: фильмы, сериалы и ТВ"
-                }
-              },
-              {
-                "guid": "b9e4179d-8a42-4239-b38d-f4be93c4b8ac",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "В подписке Combo вам будут доступны ТВ-каналы, а так же фильмы и сериалы от Amediateka Home of HBO в сервисе МегаФон ТВ"
-                }
-              }
-            ]
-          },
-          {
-            "guid": "6426fcfc-33ca-47be-89af-116cba42295f",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_6.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "0a2395e9-24cc-432d-9d3c-0891d519bf72",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": "Скидка и кэшбэк на поездки в YouDrive"
-                }
-              },
-              {
-                "guid": "955401a6-c8d6-493b-969c-c2b27fc6c7ae",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "Скидка 50% на вашу следующую поездку и кэшбэк 10% от всех последующих на бонусный счёт в каршеринге YouDrive"
-                }
-              }
-            ]
-          },
-          {
-            "guid": "2914929c-768a-46ac-9831-b9ab8cd7ccc4",
-            "type": "story-page",
-            "userInfo": "bottomLeftText",
-            "properties": {
-              "flip_interval": 10,
-              "background": {
-                "image_url": "https://galandezzz.github.io/images/combo_7.png"
-              }
-            },
-            "content": [
-              {
-                "guid": "de391d33-9d11-42a7-bde8-df81b255cbed",
-                "type": "label",
-                "userInfo": "textHeader",
-                "properties": {
-                  "text": "При покупке Биг Мака — второй в подарок"
-                }
-              },
-              {
-                "guid": "5ddad90d-4c3e-4a52-9597-f3f1bfc0a376",
-                "type": "label",
-                "userInfo": "textDescription",
-                "properties": {
-                  "text": "Получите второй Биг Мак в подарок в Макдоналдс вашего города. Единственное ограничение — аэропорты, в них предложение не действует"
-                }
-              }
-            ]
-          }
-        ]
-      }
-    }
-  }
-]
+            }
+        }
+    ]
+}
